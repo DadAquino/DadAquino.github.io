@@ -1,0 +1,43 @@
+
+p{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
+body{ text-align: center;
+background-color: #A52B2B;}
+#name{ font-family: monospace; font-size: 15px; font-weight: bold; color: #0d3b66;}
+#skills{ text-align:left;}
+#bio{font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  }
+#destaq{font-weight: bold;}
+.list1{font-size: 20px;}
+.list2{font-size: 19px;}
+.list3{font-size: 21px;}
+.list{text-align: left; font-weight: bold; font-size: medium; background-color: #c1ae7c;}
+#foto{
+    float: left;
+    padding: 5px;
+    background-color: #000;
+}
+.contimage{
+    height: 310px ;
+
+}
+h1#nome{
+    margin-top: 10px;
+    padding-top: 30px;
+    color: #0d3b66;
+}
+div p#bio{
+    padding-top: 100px;
+  padding-left: 350px;
+  padding-right: 50px;
+}
+li#destaq, li.list2{
+    font-style: italic;
+
+}
+em#destaq{
+    color: #0d3b66;
+}
+p#skills{
+    padding-top: 70px;
+}
+
+
