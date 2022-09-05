@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: white;
+
+}
+    
+h1{
+    background-color: #c1ae7c;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: monospace;
+}
+h2{
+    margin-top: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.opcoes-de-mudanca {
+
+    background-color: #c1ae7c;
+    display: inline-block;
+    border: 1px solid white;
+    width: 350px;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+#opcoes-de-mudanca button{
+    display: flexbox;
+}
+#reset{
+padding-top: 36px;
+
+
+}
+
+#tipo-de-fonte{
+    padding-top: 36px;
+}

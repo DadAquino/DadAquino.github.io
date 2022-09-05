@@ -1,0 +1,41 @@
+body {
+  background-color: #a52b2b ;
+  text-align: center;
+}
+
+.color {
+  border: 1px solid black;
+  display: inline-flex;
+  height: 50px;
+  width: 50px;
+}
+
+.selected {
+  border: 1px solid black;
+  display: inline-flex;
+  height: 53px;
+  width: 53px;
+}
+
+#pixel-board {
+  height: 225px;
+  margin-top: 20px;
+  width: 226px;
+  margin-left: 563px ;
+}
+
+.pixel {
+  display: inline-flex;
+  border: 1px solid black;
+  width: 40px;
+  height: 40px;
+  background-color: white;
+}
+
+#black {
+  background-color: black;
+}
+
+h1 {
+  color: #c1ae7c;
+}
